@@ -9,10 +9,13 @@
 ## 📘 Introduction
 
 This is the source code for EduShare – a Flutter mobile app that allows students to share study materials and manage their to-do lists.
-With this app, you can:
 
+With this app, you can:
 - 📚 Upload and browse learning documents by subject 
 - ✅ Create and track personal to-do tasks
+
+## 🖼️ Screenshots
+## 🎥 Demo Video
 
  
 
