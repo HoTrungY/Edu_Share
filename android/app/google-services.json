@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "70281911321",
+    "project_id": "edushare-3c3c9",
+    "storage_bucket": "edushare-3c3c9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70281911321:android:75fc45a702cfe588aade88",
+        "android_client_info": {
+          "package_name": "com.example.edu_share"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-yN8W8MrDvMczo4SiQ0nlQVrGLvPgIRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70281911321:android:d1af904f78233ce9aade88",
+        "android_client_info": {
+          "package_name": "com.trungy.edushare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-yN8W8MrDvMczo4SiQ0nlQVrGLvPgIRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
