@@ -8,12 +8,12 @@
 
 ## 📘 Introduction
 
-**EduShare** là một ứng dụng Flutter giúp sinh viên chia sẻ tài liệu học tập và quản lý việc cần làm.
+This is the source code for EduShare – a Flutter mobile app that allows students to share study materials and manage their to-do lists.
+With this app, you can:
 
-Với EduShare, bạn có thể:
+- 📚 Upload and browse learning documents by subject 
+- ✅ Create and track personal to-do tasks
 
-- 📄 Tải lên và tìm kiếm tài liệu theo môn học  
-- 📝 Tạo danh sách việc cần làm và đánh dấu hoàn thành  
-- 🔐 Đăng nhập an toàn bằng Firebase  
-- ☁️ Lưu trữ dữ liệu trên Cloud Firestore
+ 
+
 
